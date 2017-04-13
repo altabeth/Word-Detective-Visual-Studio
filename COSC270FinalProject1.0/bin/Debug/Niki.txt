@@ -1,0 +1,9 @@
+75
+prince
+10
+princess
+5
+yellow
+5
+cat
+5

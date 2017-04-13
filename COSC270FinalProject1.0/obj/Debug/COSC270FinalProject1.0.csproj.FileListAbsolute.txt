@@ -1,0 +1,51 @@
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\COSC270FinalProject1.0.exe.config
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\COSC270FinalProject1.0.exe
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\COSC270FinalProject1.0.pdb
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.csprojResolveAssemblyReference.cache
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Properties.Resources.resources
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.csproj.GenerateResource.Cache
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.exe
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.pdb
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form1.resources
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form2.resources
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form3.resources
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form4.resources
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\Interop.WMPLib.dll
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\AxInterop.WMPLib.dll
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\Interop.WMPLib.dll
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\AxInterop.WMPLib.dll
+E:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.csproj.ResolveComReference.cache
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\COSC270FinalProject1.0.exe.config
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\Interop.WMPLib.dll
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\AxInterop.WMPLib.dll
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.csproj.ResolveComReference.cache
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.exe
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.pdb
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\COSC270FinalProject1.0.exe
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\COSC270FinalProject1.0.pdb
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\Interop.WMPLib.dll
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\AxInterop.WMPLib.dll
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.csprojResolveAssemblyReference.cache
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form1.resources
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form2.resources
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form3.resources
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form4.resources
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Properties.Resources.resources
+G:\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.csproj.GenerateResource.Cache
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\COSC270FinalProject1.0.exe.config
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.csproj.ResolveComReference.cache
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.exe
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.pdb
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\COSC270FinalProject1.0.exe
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\COSC270FinalProject1.0.pdb
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.csprojResolveAssemblyReference.cache
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form1.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form2.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form3.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Form4.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1._0.Properties.Resources.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\COSC270FinalProject1.0\COSC270FinalProject1.0\obj\Debug\COSC270FinalProject1.0.csproj.GenerateResource.Cache
